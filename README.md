@@ -2,10 +2,10 @@
 Final project for the Building AI course by Reaktor Innovations and University of Helsinki.
 
 ## Summary
-CrossCountry Ski AI Wax Advisor is an intelligent app designed to recommend the correct ski wax for optimal performance based on real-time weather conditions and terrain data. It simplifies the process of choosing the right wax, improving the skiing experience for enthusiasts and professionals alike.
+CrossCountry Ski AI Wax Advisor is an intelligent app designed to recommend the correct ski wax for optimal performance based on real-time weather conditions and terrain data. It simplifies the process of choosing the right wax based on conditions
 
 ## Background
-Choosing the right wax for cross-country skiing can be challenging, especially for beginners. Incorrect wax can result in poor glide or grip, making skiing less enjoyable and even frustrating. Weather conditions such as temperature, humidity, and snow type significantly impact the wax selection. This problem is common among skiers worldwide.
+Choosing the right wax for cross-country skiing can be challenging, especially for beginners and even for pros. Incorrect wax can result in poor glide, making skiing less efficient. Weather conditions such as temperature, humidity, and snow type significantly impact the wax selection. This problem is common among skiers worldwide.
 
 Problem 1: Difficulty in selecting the correct wax for varying weather conditions.
 Problem 2: Lack of user-friendly tools for skiers to optimize their skiing experience.
