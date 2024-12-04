@@ -25,7 +25,7 @@ The user receives a detailed recommendation, including application instructions.
 Recreational skiers who want a hassle-free skiing experience.
 Competitive skiers seeking performance optimization.
 Ski shops and professionals who want to assist customers with accurate wax selection.
-<img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Skiing.jpg" width="300" alt="Cross-country skiing">
+
 Data sources and AI methods
 
 ##Data sources:
